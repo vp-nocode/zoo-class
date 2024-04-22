@@ -1,0 +1,7 @@
+staff,Dr. Smith,Veterinarian
+staff,Jack Evil,ZooKeeper
+staff,Lucy Good,ZooKeeper
+animal,Bird,Toucan,colorful
+animal,Mammal,Zebra,12
+animal,Reptile,Python,medium,False
+animal,Reptile,Cobra,long,True
